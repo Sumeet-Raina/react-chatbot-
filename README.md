@@ -32,7 +32,7 @@ Things you may want to cover:
   `rails db:create`
    
    Created database 'react_chatbot__development'  
-Created database 'react_chatbot__test'
+   Created database 'react_chatbot__test'
 
 * How to run the test suite
 
